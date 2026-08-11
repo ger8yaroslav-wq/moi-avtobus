@@ -4,6 +4,7 @@ local.properties
 **/build/
 *.iml
 *.apk
+!releases/*.apk
 *.aab
 *.jks
 *.keystore
