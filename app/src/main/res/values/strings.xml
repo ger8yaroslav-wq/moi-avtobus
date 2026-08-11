@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Мой автобус</string>
+    <string name="widget_description_dark">Тёмный прозрачный виджет автобусов</string>
+    <string name="widget_description_light">Светлый прозрачный виджет автобусов</string>
+    <string name="widget_description_mini_dark">Мини-виджет ближайшего автобуса, тёмный</string>
+    <string name="widget_description_mini_light">Мини-виджет ближайшего автобуса, светлый</string>
+</resources>

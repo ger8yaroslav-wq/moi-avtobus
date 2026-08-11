@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="bg">#15191E</color>
+    <color name="surface">#20262D</color>
+    <color name="text_primary">#F4F7FA</color>
+    <color name="text_secondary">#AEB8C2</color>
+    <color name="eta_green">#52D273</color>
+    <color name="input_stroke">#3A4652</color>
+    <color name="widget_text_primary">#F4F7FA</color>
+    <color name="widget_text_secondary">#AEB8C2</color>
+    <color name="widget_eta_green">#52D273</color>
+    <color name="widget_light_text_primary">#18222D</color>
+    <color name="widget_light_text_secondary">#536273</color>
+    <color name="widget_light_eta_green">#167C3A</color>
+    <color name="route_420">#8F6BFF</color>
+    <color name="route_272">#21A8F6</color>
+    <color name="route_298">#F39C45</color>
+</resources>
